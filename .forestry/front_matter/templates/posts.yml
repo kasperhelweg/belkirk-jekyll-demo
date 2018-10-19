@@ -8,3 +8,7 @@ fields:
   type: text
   hidden: false
   default: post
+- type: tag_list
+  name: test_label
+  label: Test Label
+  description: Some description
